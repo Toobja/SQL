@@ -12,8 +12,9 @@ There are many database use SQL:
 - Oracle
 
 Simple syntax can allow to;
-- create and modify databases
-- insert data
-- query data
-- update data
-- delete data and so on 
+- create and modify databases - CREATE TABLE "table_name" (column name and column type).
+- insert data  - INSET into "table_name" VALUES (inset value for all columns) 
+- query data  - SELECT * FROM "table_name"
+- 
+- update data UPDATE "table_name" SET "column_name" = "Any_Value" (can continue with WHERE clause). 
+- delete data and so on - DELET FROM "table_name" WHERE "condition".
