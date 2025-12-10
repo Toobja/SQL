@@ -7,9 +7,9 @@ SQL (Structured Query Language) is a programming language used to store, manage,
 SQL is the language you use to talk to databases. 
 
 There are many database use SQL: 
-- MySQL
-- Microsoft SQL Server
-- Oracle
+- **MySQL**
+- **Microsoft SQL Server**
+- **Oracle**
 
 Simple syntax can allow to;
 - create and modify databases - CREATE TABLE "table_name" (column name and column type).
